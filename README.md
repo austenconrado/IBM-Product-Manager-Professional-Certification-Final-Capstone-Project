@@ -1,1 +1,1 @@
-# IBM-Product-Manager-Professional-Certification-Final-Capstone-Project
+# I have completed the IBM Product Manager Professional Certification, in which upon completion I was given a Product scenario and tasked with completing various labs a product manager would have to complete during the Product Manager Lifecycle. I have attached both the Product Scenario and the various objectives to this repository!
